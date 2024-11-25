@@ -1,5 +1,5 @@
 # Campo Minado e Aprendizagem por Reforço
-Para o nosso projeto de IA, faremos uma IA que aprende a jogar campo minado usando o Q-Learning
+Para o nosso projeto de IA, faremos uma IA que aprende a jogar campo minado usando o Deep Q-Learning
 
 ## Alunos
 Gabriel Kury Fonseca - 10390103  
