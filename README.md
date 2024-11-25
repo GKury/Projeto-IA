@@ -7,5 +7,5 @@ Luiz Gabriel Profirio Mendes - 10382703
 Rafael de Toledo Navarro - 10389955
 
 ## Link para o Youtube
-https://www.youtube.com/watch?v=N9yitdlElsU
+https://www.youtube.com/watch?v=N9yitdlElsU  
 (Este link também se encontra no relatório da pasta "Segundo bimestre")
